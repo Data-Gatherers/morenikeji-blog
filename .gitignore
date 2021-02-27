@@ -1,0 +1,8 @@
+# ignore everything in the .vscode folder
+.vscode/*
+
+# ignore everything in the my_env folder
+my_env/*
+
+# ignore the dbsqlite file
+dataguys/db.sqlite3
